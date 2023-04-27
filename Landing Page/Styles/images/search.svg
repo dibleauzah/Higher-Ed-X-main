@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="29px" viewBox="0 0 27 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>search</title>
+    <defs>
+        <linearGradient x1="87.5555556%" y1="41.1816878%" x2="22.1622024%" y2="92.8253321%" id="linearGradient-1">
+            <stop stop-color="#0275FE" offset="0%"></stop>
+            <stop stop-color="#181C65" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-46.2%" y="-40.0%" width="192.3%" height="180.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="16" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="52.4977668%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#5C00D0" offset="0%"></stop>
+            <stop stop-color="#00A6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4-Copy-4" transform="translate(-46.000000, -45.000000)">
+            <polygon id="Path-3" fill="url(#linearGradient-1)" opacity="0.3" filter="url(#filter-2)" points="8 10 8 130 112 130 112 10"></polygon>
+            <path d="M15,0 L105,0 C113.284271,-1.52179594e-15 120,6.71572875 120,15 L120,105 C120,113.284271 113.284271,120 105,120 L15,120 C6.71572875,120 1.01453063e-15,113.284271 0,105 L0,15 C-1.01453063e-15,6.71572875 6.71572875,1.52179594e-15 15,0 Z" id="BG" fill="#F6F9FD"></path>
+            <g id="search" transform="translate(60.500000, 61.000000) scale(-1, 1) rotate(-320.000000) translate(-60.500000, -61.000000) translate(49.000000, 44.000000)">
+                <path d="M11.0556126,0.262488347 C17.1320806,0.260971896 22.0556126,5.1809134 22.0556126,11.2514845 L22.0556126,11.2514845 L22.0556126,11.5121529 C22.0556126,16.9223863 18.1416673,21.3339815 12.9880242,22.1310988 L12.8466812,31.2575583 C12.8291222,32.3950099 11.9262546,33.2846504 10.8140311,33.3112149 L10.6626126,33.308488 L10.5325803,33.2979217 C9.41685646,33.1658153 8.54970533,32.185013 8.56713138,31.056174 L8.70682571,21.9528115 C3.75940705,20.7659479 0.055612557,16.2790419 0.055612557,11.0100612 L0.056612557,11.138488 L0.0593199616,10.9769109 C0.209780806,5.13964699 4.92121209,0.418473045 10.7672051,0.266274635 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                <path d="M10.9914845,3.59735255 C6.84934883,3.59838627 3.49148445,6.96342182 3.49148445,11.0989792 L3.49148445,10.9252432 C3.49148445,15.0672434 6.85777724,18.5006161 10.9914845,18.5934728 L10.9914845,18.5934728 C15.1336201,18.6865188 18.4914845,15.396017 18.4914845,11.2675784 L18.4914845,11.0898499 C18.4914845,6.95082418 15.1251917,3.59632094 10.9914845,3.59735255 L10.9914845,3.59735255 Z" id="Path-2" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

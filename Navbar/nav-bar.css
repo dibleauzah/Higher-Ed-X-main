@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    
+}
+
+.links, .links > li{
+    list-style:none;
+}
+
+
+
+@media screen and (max-width:700px){
+    .links {
+        height: 0;
+        overflow: hidden;
+        transition: var(--transition);
+    }
+
+    .show-links {
+        height: 10rem;
+        
+    }
+    .show-links a {
+        color: rgb(60,77,103);
+        font-family: open-sans,sans-serif;
+        text-decoration: none;
+        text-align: left;
+        text-transform: capitalize;
+        line-height: 24px;
+        padding:8px 16px;
+        letter-spacing: 4px;
+    }
+
+    
+
+}

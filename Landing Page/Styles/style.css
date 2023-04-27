@@ -1,0 +1,64 @@
+
+:root {
+  --lightgrey: #677897;
+}
+
+
+* {
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
+
+
+
+
+/* start responsive design */
+@media screen and (max-width:700px){
+
+body{
+  text-align: center;
+}
+.intro-section{
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 750px;
+  
+}
+.image{
+  width: 200px;
+}
+.welcome{
+width: 50%;
+margin: 0 auto;
+max-width: 750px;
+}
+.featured-section{
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  max-width: 750px;
+}
+.featured-schools{
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  max-width: 750px;
+}
+.section-advertisement{
+  display: block;
+  width: 50%;
+  margin: 0 auto;
+  max-width: 750px;
+  
+}
+
+.roadmap-section{
+  
+  width: 50%;
+  margin: 0 auto;
+  max-width: 750px;
+}
+}
+/* end responsive design  */
